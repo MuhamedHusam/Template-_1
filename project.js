@@ -1,0 +1,1 @@
+// window.prompt('welcome in the world');
